@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Emilia
-- 👀 I enjoy Data Analysis & Data Science
+- 👋 Hi, I’m Emilia.
+- 👀 I enjoy Data Analysis & Data Science.
 - 🌱 My favorite tools to use for my projects are Python and R.
 <!---
 homoamikus/homoamikus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
